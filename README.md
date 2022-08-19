@@ -1,6 +1,6 @@
 # Service Level Agreement
 
-this is a sample readme file for the sample sites
+
 
 # Release Notes
 
