@@ -4,7 +4,7 @@
 
 # Release Notes
 
-This project is part of LFX mentee 2022 (summer).
+The project is part of LFX mentee 2022 (summer).
 
 The Project file contain following tools for the SLA test case:
 
