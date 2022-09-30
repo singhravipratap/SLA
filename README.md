@@ -9,7 +9,7 @@ The project is part of LFX mentee 2022 (summer).
 
 The Project file contain following tools for the SLA test case:
 
-1. Network implimentation 
+1. Network implimentation.
 2. Hypereldger fabric explorer
 3. Private data collection implimenation
 
