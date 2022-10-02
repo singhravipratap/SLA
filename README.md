@@ -34,7 +34,7 @@ You are expected to download the sample Hyperledger Fabric from the Github and i
 
 ## Configuration and data flow
 
-## Notes: be careful
+## Notes: be careful while deploying setup
 
 ## Start container services
 
