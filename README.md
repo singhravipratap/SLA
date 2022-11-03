@@ -58,5 +58,5 @@ You are expected to download the sample Hyperledger Fabric from the Github and i
 
 
 # Licence
-SLA Self-Assessment with Hyperledger Fabric Project source code is released under the Apache 2.0 license. The README.md, CONTRIBUTING.md files, and files in the "images", "snapshots" folders are licensed under the Creative Commons Attribution 4.0 International License. You may obtain a copy of the license, titled CC-BY-4.0, at http://creativecommons.org/licenses/by/4.0/.
+SLA-Self-Assessment with Hyperledger Fabric Project source code is released under the Apache 2.0 license. The README.md, CONTRIBUTING.md files, and files in the "images", "snapshots" folders are licensed. You may obtain a copy of the license, https://www.apache.org/licenses/LICENSE-2.0 
 
