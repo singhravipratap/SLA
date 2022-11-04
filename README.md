@@ -31,6 +31,10 @@ Note: This tutorial has been tested on Utuntu and may work on the other Linux di
 
 You are expected to download the sample Hyperledger Fabric from the Github and install the prerequisite files as instructed in the folloiwng pages: 
 
+
+### Interplanetary File System (IPFS) 
+A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open. IPFS is a file sharing system that can be leveraged to more efficiently store and share large files. It relies on cryptographic hashes that can easily be stored on a blockchain Learn more here: https://ipfs.tech/
+
 ## Start Hyperledger Fabric test network
 
 ## Configuration and data flow
