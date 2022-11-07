@@ -45,8 +45,11 @@ A peer-to-peer hypermedia protocol designed to preserve and grow humanity's know
 
 ## Clean up
 
-# Quick start
-## Prerequisite
+# Quick start to project
+## Prerequisites for Fabric implimentation
+
+
+## Prerequisites for Fabric Private chaincode implimentation
 
 # Troubleshooting
 ### 1 Error in network implimentation
