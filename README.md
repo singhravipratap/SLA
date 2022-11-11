@@ -39,7 +39,7 @@ A peer-to-peer hypermedia protocol designed to preserve and grow humanity's know
 
 ## Configuration and data flow
 
-## Notes: be careful while deploying setup
+## Notes: To be careful while deploying setup
 
 ## Start container services
 
