@@ -11,8 +11,8 @@ The Project file contain following tools for the SLA test case:
 
 1. Fabric network implimentation.
 2. Hypereldger fabric explorer
-3. Hyperledgre Fabric Private chaincode implimenation
-4. Hypwerledger Fabric Private chaincode sampe demo is attached.
+3. Hyperledgre Fabric Private chaincode implimenation inconjuction with fabric smart client.
+4. Hyperledger Fabric Private chaincode sample demo is attached.
 
 # Quick start (using existing network)
  In this tutorial two organziation, DelhiCloud and AryaSystem trade the SLA with each other using SlaNet, a Hyperledger Fabric blockchain network implimentation.
