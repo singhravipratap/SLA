@@ -25,7 +25,7 @@ The Project file contain following tools for the SLA test case:
  4. Deploy the smart contract to the channel by follwing the approving the chaincode definition as DelhiCloud and AryaSystem.
  5. Understand how DelhiCloud uses the smart contract in their application
 
-Note: This tutorial has been tested on Utuntu and may work on the other Linux distribution.
+Note: This tutorial has been tested on Utuntu 20.04 LTS and may work on the other Linux distribution.
 
 ## Prerequisites
 
