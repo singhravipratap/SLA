@@ -43,7 +43,6 @@ A peer-to-peer hypermedia protocol designed to preserve and grow humanity's know
 
 ## Start container services
 
-## Clean up
 
 # Quick start to project
 ## Prerequisites for Fabric implimentation
