@@ -27,7 +27,7 @@ The Project file contain following tools for the SLA test case:
 
 Note: This tutorial has been tested on Utuntu 20.04 LTS and may work on the other Linux distribution.
 
-## Prerequisites
+## Prerequisites:
 
 You are expected to download the sample Hyperledger Fabric from the Github and install the prerequisite files as instructed in the folloiwng pages: 
 
