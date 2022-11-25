@@ -1,6 +1,5 @@
 # Service Level Agreement (SLA)
 
-
  Hyperledger Wiki link: https://wiki.hyperledger.org/display/INTERN/SLA+Self-Assessment+with+Hyperledger+Fabric 
  
 # Release Notes
@@ -30,31 +29,34 @@ Note: This tutorial has been tested on Utuntu 20.04 LTS and may work on the othe
 ## Prerequisites:
 
 You are expected to download the sample Hyperledger Fabric from the Github and install the prerequisite files as instructed in the folloiwng pages: 
-
+https://hyperledger-fabric.readthedocs.io/en/release-2.3/install.html
+https://github.com/hyperledger/fabric-private-chaincode/tree/go-support-preview 
 
 ### Interplanetary File System (IPFS) 
-A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open. IPFS is a file sharing system that can be leveraged to more efficiently store and share large files. It relies on cryptographic hashes that can easily be stored on a blockchain Learn more here: https://ipfs.tech/
+A peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open. IPFS is a file sharing system that can be leveraged to more efficiently store and share large files. It relies on cryptographic hashes that can easily be stored on a blockchain Learn more here: https://ipfs.tech/ (*this is for the added knowlege).
 
-## Start Hyperledger Fabric test network
+## Start Hyperledger Fabric FPC test network
+https://github.com/hyperledger/fabric-private-chaincode/tree/go-support-preview 
 
 ## Configuration and data flow
+https://github.com/hyperledger/fabric-private-chaincode/tree/go-support-preview/samples/demos/hlgf22
+https://github.com/hyperledger-labs/fabric-smart-client
+
 
 ## Notes: To be careful while deploying setup
+Specifically for the first time implimenation, use the specific version as mentioned in the documentaion (for easyness).
 
-## Start container services
 
 
 # Quick start to project
-## Prerequisites for Fabric implimentation
+https://www.hyperledger.org/use 
 
 
 ## Prerequisites for Fabric Private chaincode implimentation
 
 # Troubleshooting
-### 1 Error in network implimentation
-
-### 2 Error in smart contract
-
+### Error in network implimentation in FPC
+Please go through the discord channel, few problem has been identified and discussed over there.
 
 
 
