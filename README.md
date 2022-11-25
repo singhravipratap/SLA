@@ -12,18 +12,18 @@ The Project file contain following tools for the SLA test case:
 1. Fabric network implimentation.
 2. Hypereldger fabric explorer
 3. Hyperledgre Fabric Private chaincode implimenation inconjuction with fabric smart client.
-4. Hyperledger Fabric Private chaincode sample demo is attached.
+4. Hyperledger Fabric Private chaincode sample video-demo is attached. https://youtu.be/THYoI56AMVQ 
 
 # Quick start (using existing network)
- In this tutorial two organziation, DelhiCloud and AryaSystem trade the SLA with each other using SlaNet, a Hyperledger Fabric blockchain network implimentation.
+ In this tutorial two organziation, use the SLA with each other using fabric smart client, a Hyperledger Fabric blockchain network implimentation inside Fabric private chaine code (FPC) implimentation.
 
  Your role is different during the lifecycle of the SLA and you will act as a developer and administrator in both two organziation. You will be performing the following steps:
 
  1. Set up machine and download samples from repository
  2. Creation of the network
- 3. Exploring the SLA smart contract
+ 3. Exploring the SLA smartcontract
  4. Deploy the smart contract to the channel by follwing the approving the chaincode definition as DelhiCloud and AryaSystem.
- 5. Understand how DelhiCloud uses the smart contract in their application
+ 5. Understand how organization uses the smartcontract in their application.
 
 Note: This tutorial has been tested on Utuntu 20.04 LTS and may work on the other Linux distribution.
 
@@ -54,11 +54,6 @@ A peer-to-peer hypermedia protocol designed to preserve and grow humanity's know
 ### 1 Error in network implimentation
 
 ### 2 Error in smart contract
-
-
-
-
-
 
 
 
