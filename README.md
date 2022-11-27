@@ -1,6 +1,6 @@
 # Service Level Agreement (SLA)
 
- Hyperledger Wiki link: https://wiki.hyperledger.org/display/INTERN/SLA+Self-Assessment+with+Hyperledger+Fabric 
+ Hyperledger mentership Wiki link: https://wiki.hyperledger.org/display/INTERN/SLA+Self-Assessment+with+Hyperledger+Fabric 
  
 # Release Notes
 
