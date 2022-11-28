@@ -8,7 +8,7 @@ The project is part of LFX mentee 2022 (summer).
 
 The Project file contain following tools for the SLA test case:
 
-1. Fabric network implimentation.
+1. Hyperledger Fabric network implimentation.
 2. Hypereldger Blockchain explorer https://github.com/hyperledger-labs/blockchain-explorer
 3. Hyperledgre Fabric Private chaincode implimenation inconjuction with fabric smart client.
 4. Hyperledger Fabric Private chaincode sample video-demo is attached. https://youtu.be/THYoI56AMVQ 
