@@ -54,6 +54,8 @@ https://www.hyperledger.org/use
 
 ## Prerequisites for Fabric Private chaincode implimentation
 
+Ensure that you have correctly installed and setup the $GOPATH and $GOROOT.
+
 # Troubleshooting
 ### Error in network implimentation in FPC
 Please go through the discord channel, few problem has been identified and discussed over there.
