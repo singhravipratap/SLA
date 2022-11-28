@@ -11,7 +11,7 @@ The Project file contain following tools for the SLA test case:
 1. Hyperledger Fabric network implimentation.
 2. Hypereldger Blockchain explorer https://github.com/hyperledger-labs/blockchain-explorer
 3. Hyperledgre Fabric Private chaincode implimenation inconjuction with fabric smart client.
-4. Hyperledger Fabric Private chaincode sample video-demo is attached. https://youtu.be/THYoI56AMVQ 
+4. Hyperledger Fabric Private chaincode sample video-demo is attached. https://github.com/singhravipratap/SLA/blob/a2a62d57f7f9d84f925636677a906323ec61bfda/video/link
 
 # Quick start (using existing network)
  In this tutorial two organziation, use the SLA with each other using fabric smart client, a Hyperledger Fabric blockchain network implimentation inside Fabric private chaine code (FPC) implimentation.
