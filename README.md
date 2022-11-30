@@ -1,9 +1,10 @@
 # Release Notes
 
-The project is part of LFX mentee 2022 (summer)inside the Hyperledger foundation.
+The project is part of LFX mentee 2022 (summer) inside the Hyperledger foundation.
+
 Hyperledger mentership project Wiki link: https://wiki.hyperledger.org/display/INTERN/SLA+Self-Assessment+with+Hyperledger+Fabric 
  
-The Project realized with the help of following steps and implimentation for the service level agreement (SLA) test case:
+The Project realized with the help of following steps and implimentation for the Service Level Agreement (SLA) test case:
 
 1. Hyperledger Fabric network implimentation.
 2. Hypereldger Blockchain explorer https://github.com/hyperledger-labs/blockchain-explorer
@@ -12,7 +13,7 @@ The Project realized with the help of following steps and implimentation for the
 SLA test case implimentation video-demo is attached and can be found inside the following link: https://github.com/singhravipratap/SLA/blob/a2a62d57f7f9d84f925636677a906323ec61bfda/video/link
 
 # Quick start guide
- In SLA test case tutorial, two organziation in the fabic network (fabric smart client), participate with Fabric private chainecode (FPC) implimentation.
+ In SLA test case tutorial, two organziation in the fabic network (fabric smart client), participate with Fabric private chaincode (FPC) implimentation.
 
  The user role can be diffent either a developer or/and administrator in both two organziation. To impliment the SLA test case, following task need to be performed following below mentioned steps:
 
@@ -37,15 +38,15 @@ https://github.com/hyperledger/fabric-private-chaincode/tree/go-support-preview
 https://github.com/hyperledger/fabric-private-chaincode/tree/go-support-preview/samples/demos/hlgf22
 https://github.com/hyperledger-labs/fabric-smart-client
 
-## Notes: To be careful while deploying setup
+### Notes: To be careful while deploying setup
 Use specific version of tool as mentioned in the documentaion (for easyness).
 
-## Prerequisites for Fabric Private chaincode implimentation
+### Prerequisites for Fabric Private chaincode implimentation
 Ensure that you have correctly installed and setup the $GOPATH and $GOROOT.
 
-# Troubleshooting
+## Troubleshooting
 ### Error in network implimentation in FPC
-Please go through the discord channel, few problem has been identified and discussed over there.
+Please go through the FPC discord channel, https://discord.com/invite/hyperledger. A few problems has been identified and discussed over there.
 
 # Licence
 SLA-Self-Assessment with Hyperledger Fabric Project source code is released under the Apache 2.0 license. The README.md, CONTRIBUTING.md files, and files in the "images", "snapshots" folders are licensed. You may obtain a copy of the license, https://www.apache.org/licenses/LICENSE-2.0 
